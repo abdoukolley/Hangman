@@ -13,6 +13,7 @@ while True:
     
     # Checking if the guess is a letter and only one letter
     if len(guess) == 1 and guess.isalpha():
+        # Checking if the guess is in the word
         if guess in word:
             print(f"Good guess!{guess} is in the word.")
         else:
