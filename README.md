@@ -11,5 +11,5 @@ This project was one of many that was made during the bootcamp.
 # Usage
 
 1. Clone repository
-2. Use terminal to navigate to hangman.py
-3. Start Hangman by typing 'python hangman.py'
+2. Use terminal to navigate to `hangman.py`
+3. Start Hangman by typing `python hangman.py`
